@@ -1,5 +1,20 @@
 # Getting Started with Create React App
 
+# React Redux Toolkit CRUD (Simple) with LocalStorage Configuration
+
+This is a simple Web application CRUD (Create, Read, Update, Delete) using React, Redux Toolkit and LocalStorage to save data in the client side.
+
+## Installation
+
+```
+git clone https://github.com/JormanPzC/react-rtk-lcl-stg-crud
+cd react-rtk-lcl-stg-crud
+npm i
+npm start
+```
+
+## More Info
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
