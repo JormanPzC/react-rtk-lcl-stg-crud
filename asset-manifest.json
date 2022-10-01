@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-rtk-lcl-stg-crud/static/css/main.de9eca58.css",
+    "main.js": "/react-rtk-lcl-stg-crud/static/js/main.18c65fce.js",
+    "index.html": "/react-rtk-lcl-stg-crud/index.html",
+    "main.de9eca58.css.map": "/react-rtk-lcl-stg-crud/static/css/main.de9eca58.css.map",
+    "main.18c65fce.js.map": "/react-rtk-lcl-stg-crud/static/js/main.18c65fce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de9eca58.css",
+    "static/js/main.18c65fce.js"
+  ]
+}
