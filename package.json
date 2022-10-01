@@ -2,7 +2,7 @@
   "name": "react-rtk-crud",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://JormanPzC.github.io/react-rtk-lcl-stg-crud",
+  "homepage": "https://JormanPzC.github.io/react-rtk-lcl-stg-crud",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "@testing-library/jest-dom": "^5.16.5",
